@@ -1,5 +1,7 @@
 # Legal Issues in Information Technology: Exploring Ethics, Cases, and Laws
 
+> Built with HTML, CSS, and JavaScript
+
 Welcome to the Legal Issues website, a comprehensive platform dedicated to shedding light on the realm of legal and ethical considerations in Information Technology. Delve into topics ranging from global and local cases to the laws that govern the digital landscape.
 
 ## Features
